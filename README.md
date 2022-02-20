@@ -11,3 +11,10 @@
 * *[Node.js Interview Questions](https://github.com/learning-zone/nodejs-interview-questions)*
 * *[MongoDB Interview Questions ( v4.4 )](https://github.com/learning-zone/mongodb-interview-questions)*
 * *[General Questions and Answers](https://github.com/learning-zone/general-interview-questions)*
+
+
+## Syntax Podcast - 1/09/2021 Episode
+
+* *[JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)*
+* *[30 seconds of interviews](https://30secondsofinterviews.org/)*
+* *[Interviewbit Javascript Questions](https://www.interviewbit.com/javascript-interview-questions/)*
